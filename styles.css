@@ -9,11 +9,11 @@ ul {
 }
 
 body {
-    background-image: url(./assets/bg.jpg);
-    background-position: top center;
-    background-size: 100% auto;
+    background-image: url(./assets/games_bg.jpg);
+    background-position: center;
+    background-size: 65% auto;
     background-repeat: no-repeat;
-    background-color: #121214;
+    background-color: #ffffff;
 }
 
 body * {
@@ -68,7 +68,7 @@ section {
 }
 
 section div {
-    background-color: #2A2634;
+    background-color: #2a2634c7;
     padding: 32px;
     padding-top: 24px;
     border-radius: 8px;
@@ -99,13 +99,13 @@ section ul li:hover {
 transform: scale(1.1)}
 
 .games-list img {
-    width: 90px;
+    width: 155px;
     border-radius: 8px;
 }
 
 .channel-list img {
     border-radius: 50%;
-    width: 70px;
+    width: 100px;
     border: 1px solid #443E54;    
 }
 
